@@ -1,0 +1,143 @@
+body{
+    background-color: snow;
+    /*transform: scale(0.9);*/
+}
+p{
+    padding: 10px 0;
+}
+.container{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    max-width: 800px;
+    box-shadow:5px 2px 6px #000
+
+}
+.content-right{
+    background-color: white;
+    height:1000px;
+    padding-left: 25px;
+}
+.content-left{
+    padding:30px 30px;
+    background-color: #323e4e;
+    height:1000px;
+    color: white;
+}
+.img-tou{
+    margin-bottom: 40px;
+}
+.aboutMe,.skill{
+    width: 100%;
+    word-wrap: break-word;
+    margin: 10px 0;
+}
+.skill{height: 230px;}
+.aboutMe{height: 230px;}
+
+.hobby,.Contact{
+    width: 100%;
+    height: 130px;
+    word-wrap: break-word;
+    margin: 10px 0;
+}
+.line{
+    width: 140px;
+    margin-top: 4px;
+    margin-left: 10px;
+    border-bottom: 3px solid white;
+}
+.progress{
+    height: 10px;
+    width: 160px;
+}
+.skill-content{
+    margin-top: 30px;
+}
+.span1{
+    font-size: 30px;
+    margin-right: 10px;
+}
+.span2{
+    font-size: 20px;
+    margin-right: 10px;
+}
+.hobby-content{
+    margin-top: 20px;
+    margin-left: 5px;
+}
+.Contact-content{
+    margin-top: 20px;
+    margin-left: 5px;
+
+}
+.Contact-content-row{
+    margin-bottom: 10px;
+}
+.Contact-content-row-info{
+    margin-top: 2px;
+    font-size: 12px;
+}
+
+/*右侧样式*/
+.line-big{
+    width: 90%;
+    margin-top: 55px;
+    /*margin-left: 10px;*/
+    border-bottom: 3px solid black;
+}
+.education{
+    /*background-color: snow;*/
+    margin-top: 40px;
+    width: 100%;
+    height: 300px;
+}
+.introduce{
+    /*background-color: snow;*/
+    margin-top: 40px;
+    width: 100%;
+    height: 200px;
+}
+.Areas{
+    background-color: snow;
+    margin-top: 40px;
+    width: 100%;
+    height: 200px;
+}
+.line-mid{
+    width: 75%;
+    margin-top:5px;
+    margin-left: 20px;
+    border-bottom: 3px solid black;
+}
+.education p{
+     font-size: 12px;
+     padding:0 0;
+ }
+.introduce p{
+    font-size: 12px;
+    padding:0 0;
+}
+.Areas-content{
+    display: flex;
+    margin-top: 40px;
+    /*background-color: lightblue;*/
+}
+.yuan1,.yuan2{
+    display: flex;
+    border-radius: 50%;
+}
+.yuan1{
+    color:white;;
+    height: 110px;
+    width: 110px;
+    background-color: #384b65;
+}
+.yuan2{
+    height: 128px;
+    width: 128px;
+    background-color: #90ee90;
+    margin-right: auto;
+}
+.img22{
+    margin-right: 20px;
+}
